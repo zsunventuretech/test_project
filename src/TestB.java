@@ -6,5 +6,5 @@
  */
 public class TestB
 {
-    String a;
+    String a ="1";
 }
