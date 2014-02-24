@@ -6,4 +6,5 @@
  */
 public class TestC
 {
+    String s ="s";
 }
